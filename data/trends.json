@@ -1,0 +1,34 @@
+{
+  "source": "Mock Depop + Instagram style tag snapshot (Spring 2026)",
+  "updated": "2026-06-01",
+  "default": {
+    "trending_tags": ["vintage", "streetwear", "layering", "90s"],
+    "summary": "Vintage layering and relaxed streetwear silhouettes are trending across sizes."
+  },
+  "size_buckets": {
+    "XS": {
+      "trending_tags": ["y2k", "baby tee", "cottagecore", "fitted"],
+      "summary": "Y2K baby tees and fitted cottagecore pieces are hot in XS–S right now."
+    },
+    "S": {
+      "trending_tags": ["y2k", "graphic tee", "cottagecore", "vintage"],
+      "summary": "Y2K graphic tops and soft vintage finds dominate small-size feeds."
+    },
+    "M": {
+      "trending_tags": ["grunge", "90s", "layering", "streetwear", "flannel"],
+      "summary": "Grunge layering — flannels, track jackets, and boxy tees — is peaking in M."
+    },
+    "L": {
+      "trending_tags": ["grunge", "graphic tee", "oversized", "streetwear"],
+      "summary": "Oversized graphic tees and grunge-inspired layering are trending in L."
+    },
+    "XL": {
+      "trending_tags": ["oversized", "streetwear", "flannel", "layering"],
+      "summary": "Oversized streetwear and heavy layering pieces are getting the most saves in XL."
+    },
+    "8": {
+      "trending_tags": ["combat boots", "streetwear", "chunky", "90s"],
+      "summary": "Chunky boots and 90s streetwear footwear are trending in women's 8."
+    }
+  }
+}

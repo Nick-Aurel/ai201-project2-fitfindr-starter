@@ -14,3 +14,19 @@ env/
 
 # macOS
 .DS_Store
+
+# Local instruction documents
+unit2_project_instructions.pdf
+unit2-grading-rubric.pdf
+
+# Demo prep (video/script submitted separately — not in repo)
+DEMO_SCRIPT.md
+*.mp4
+*.mov
+
+# Saved user style profile (local session memory)
+data/style_profile.json
+
+# Test cache
+.pytest_cache/
+
